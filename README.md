@@ -1,1 +1,1 @@
-# cs159gitguilab1
+# Github intro lab
